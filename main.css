@@ -8,3 +8,12 @@ body {
     background-color: rgb(246, 101, 101);
 }
 /* Added Background color */
+header {
+    border: 25px solid blue;
+    width: 100%;
+}
+.dungeon{
+    color: gray;
+    text-align: right;
+}
+/* Added blue border */
