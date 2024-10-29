@@ -24,3 +24,23 @@ header {
 h2{
     text-align: center;
 }
+
+nav{
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px dotted black;
+    width: 10%;
+    float: left;
+}
+
+section{
+    border: 3 solid blue;
+    width: 80%;
+    float: left;
+}
+article{
+border: 4 solid white;
+    width: 10%;
+    float: left;
+}
+/* adjusted 3 columns */
